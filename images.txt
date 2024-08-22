@@ -12,3 +12,4 @@ wukongim/wukongim:v1.2
 minio/minio
 mysql:8.0.19
 maven:3.8.1-openjdk-17
+openjdk:17-jdk-slim
