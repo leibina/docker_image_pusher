@@ -16,3 +16,4 @@ openjdk:17-jdk-slim
 node:16
 node:18-alpine
 nginx:alpine
+excalidraw:latest
