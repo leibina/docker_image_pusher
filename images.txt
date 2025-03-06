@@ -1,2 +1,4 @@
 excalidraw/excalidraw:latest
 guiji2025/fun-asr:1.0.1
+guiji2025/fish-speech-ziming:1.0.39
+guiji2025/heygem.ai:0.0.7_sdk_slim
